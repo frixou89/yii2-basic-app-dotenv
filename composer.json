@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
+    "name": "frixou89/yii2-basic-app-dotenv",
+    "description": "Yii 2 Basic Project Template with dotenv support",
+    "keywords": ["yii2", "framework", "basic", "project template", "dotenv"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
     "license": "BSD-3-Clause",
